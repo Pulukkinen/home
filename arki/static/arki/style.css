@@ -1,0 +1,11 @@
+.navbar-custom {
+	background-color: #2e7d32 !important;
+	border-top: 20px solid !important;
+	border-top-color: #005005 !important;
+	box-shadow: 0 5px 5px -2px #999 !important;
+	
+}
+
+body {
+	padding-top: 85px;
+}
